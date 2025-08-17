@@ -9,8 +9,21 @@ export default function App() {
       <footer>
         {" "}
         <p>
-          This page was coded by <a href="">Mahdia Khamoosh</a>and is{" "}
-          <a href="">Open-sourced</a>and hosted on <a href="">Netlify</a>
+          This page was coded by{" "}
+          <a href="https://github.com/Mahdia-123" rel="noreferrer">
+            Mahdia Khamoosh
+          </a>
+          and is{" "}
+          <a
+            href="https://github.com/Mahdia-123/smart-to-to-list"
+            rel="noreferrer"
+          >
+            Open-sourced
+          </a>
+          and hosted on{" "}
+          <a href="" rel="noreferrer">
+            Netlify
+          </a>
         </p>
       </footer>
     </div>
