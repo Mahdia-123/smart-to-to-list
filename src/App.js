@@ -1,10 +1,11 @@
 import "./App.css";
-import Quotes from "./Quotes";
+import ToDoList from "./ToDoList";
 
 export default function App() {
   return (
     <div className="App">
-      <Quotes />
+      <h1>My To-Do List</h1>
+      <ToDoList />
     </div>
   );
 }
