@@ -21,7 +21,7 @@ export default function App() {
             Open-sourced
           </a>
           and hosted on{" "}
-          <a href="" rel="noreferrer">
+          <a href="/" rel="noreferrer">
             Netlify
           </a>
         </p>
