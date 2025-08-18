@@ -9,16 +9,18 @@ export default function App() {
       <footer>
         {" "}
         <p>
-          This page was coded by{" "}
+          This page was coded by
+          {"  "}
           <a href="https://github.com/Mahdia-123" rel="noreferrer">
-            Mahdia Khamoosh
+            {" "}
+            Mahdia Khamoosh{" "}
           </a>
           and is{" "}
           <a
             href="https://github.com/Mahdia-123/smart-to-to-list"
             rel="noreferrer"
           >
-            Open-sourced
+            Open-sourced{" "}
           </a>
           and hosted on{" "}
           <a
