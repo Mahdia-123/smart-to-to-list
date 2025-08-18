@@ -21,7 +21,10 @@ export default function App() {
             Open-sourced
           </a>
           and hosted on{" "}
-          <a href="/" rel="noreferrer">
+          <a
+            href="https://my-friendly-to-do-list.netlify.app/"
+            rel="noreferrer"
+          >
             Netlify
           </a>
         </p>
